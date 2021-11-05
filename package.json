@@ -1,0 +1,22 @@
+{
+  "name": "discordbotv1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreDieu/DiscordBotV1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreDieu/DiscordBotV1/issues"
+  },
+  "homepage": "https://github.com/AlexandreDieu/DiscordBotV1#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
